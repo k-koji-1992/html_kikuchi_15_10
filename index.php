@@ -27,7 +27,7 @@
       <div class="container-fluid">
         <div class="navbar-header"><a class="navbar-brand" href="select.php">ブックマーク一覧</a></div>
         <div class="navbar-header"><a class="navbar-brand" href="login.php">ログイン</a></div>
-
+        <div class="navbar-header"><a class="navbar-brand" href="register.php">会員登録</a></div>
       </div>
     </nav>
   </header>
